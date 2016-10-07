@@ -1,5 +1,6 @@
 # node-red-ui
-node-red ui only, taken from running a server and tweaked to work with only static files
+node-red ui only, taken from running a server and tweaked to work with only static files.  
+
 Employed a few tricks to do this correctly
 * run node-red server 
 * use httrack to mirror the site offline
